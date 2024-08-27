@@ -1,0 +1,16 @@
+body {
+    background-color: rgba(153, 50, 204, 0.817);
+    text-align: center;
+}
+
+p {
+    color: aqua;
+}
+
+.unicornio {
+    font-style: italic;
+}
+
+.img1 {
+    width: 50%;
+}
